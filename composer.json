@@ -1,0 +1,17 @@
+{
+    "name": "jose.ferreira/rotas-phpoo",
+    "authors": [
+        {
+            "name": "jmarcos16",
+            "email": "contato.marcosrf@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^6.1"
+    }
+}
